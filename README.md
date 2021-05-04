@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @tomokiqi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Thank you for visiting!!
+
+## Who am I?
+
+### Tomoki Saijo
+
+- Frontend Engineer
+- Certified Scrum Master
+
+## SNS
+
+<a href="https://twitter.com/tomokiqi"><img src="assets/twitter.svg" alt="Twitter" width="24px" height="24px
+"/></a>
 
 <!---
 tomokiqi/tomokiqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
