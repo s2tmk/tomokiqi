@@ -1,11 +1,20 @@
-# Thank you for visiting!!
+**🎉 Thank you for visiting!!**
 
 ## Who am I?
 
-### Tomoki Saijo
+### Name
+
+Tomoki S.
+
+### Job
 
 - Frontend Engineer
-- Certified Scrum Master
+- System Engineer (System Architect)
+
+### Licence
+
+- Scrum Alliance® 認定スクラムマスター（CSM）
+- 基本情報技術者
 
 ## SNS
 
