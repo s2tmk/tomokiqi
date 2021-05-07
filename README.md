@@ -9,9 +9,9 @@ Tomoki S.
 ### Job
 
 - Frontend Engineer
-  - SPA with React
+  - SPA with React (2019/06 ~)
 - System Engineer
-  - Parallel Distributed System Architect
+  - Parallel Distributed System Architect (2020/11 ~)
 
 ### Licence
 
