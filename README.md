@@ -5,9 +5,9 @@
 ### Job
 
 - Frontend Engineer
-  - SPA with React (2019/06 ~)
+  - React SPA in TypeScript (2019/06 ~)
 - System Engineer
-  - Parallel Distributed System Architect (2020/11 ~)
+  - Akka Actor in Scala (2020/12 ~)
 
 ### Licence
 
