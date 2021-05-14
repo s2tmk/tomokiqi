@@ -11,7 +11,7 @@
 
 ### Licence
 
-- Scrum Alliance Certified ScrumMaster (２０２０/12)
+- Scrum Alliance Certified ScrumMaster (2020/12)
 
 ### SNS
 
