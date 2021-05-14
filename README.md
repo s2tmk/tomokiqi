@@ -5,14 +5,13 @@
 ### Job
 
 - Frontend Engineer
-  - React SPA in TypeScript (2019/06 ~)
+  - Develop React SPA in TypeScript (2019/06 ~)
 - System Engineer
-  - Akka Actor in Scala (2020/12 ~)
+  - Design Parallel Distributed Application (2020/12 ~)
 
 ### Licence
 
-- Scrum Alliance Certified ScrumMaster (CSM)
-- Fundamental Information Technology Engineer Examination (FE)
+- Scrum Alliance Certified ScrumMaster (２０２０/12)
 
 ### SNS
 
