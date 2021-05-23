@@ -5,9 +5,11 @@
 ### Job
 
 - Frontend Engineer
-  - Develop React SPA in TypeScript (2019/06 ~)
+  - Develop SPA in TypeScript (2019/06 ~)
+    - React 
 - System Engineer
   - Design Parallel Distributed Application (2020/12 ~)
+    - Scala Akka 
 
 ### Licence
 
