@@ -1,6 +1,6 @@
 **🎉 Thank you for visiting!!**
 
-## Hello, I'm Tomokiqi!
+## Tomokiqi
 
 ### Job
 
