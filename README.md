@@ -1,4 +1,4 @@
-**🙏 Thank you for visiting!**
+**Hi, There! ✋**
 
 ## Job
 
@@ -9,7 +9,8 @@
 
 - Scrum Alliance Certified ScrumMaster (2020/12)
 
-## SNS
-
-<a href="https://twitter.com/tomokiqi"><img src="assets/twitter.svg" alt="Twitter" width="24px" height="24px
-"/></a>
+<p>
+  <a href="https://twitter.com/tomokiqi" target="_blank">
+    <img alt="Twitter: tomokiqi" src="https://img.shields.io/twitter/follow/tomokiqi.svg?style=social" />
+  </a>
+</p>
