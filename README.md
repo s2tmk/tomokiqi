@@ -5,7 +5,9 @@
 ## Job
 
 - Frontend Engineer
+  - SPA with React
 - System Engineer
+  - Distributed System　with Akka
 
 ## Licence
 
