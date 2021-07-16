@@ -5,7 +5,7 @@
 ## Job
 
 - Frontend Engineer
-  - SPA with React
+  - React / NextJS
 
 ## Licence
 
