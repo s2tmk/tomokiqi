@@ -1,6 +1,4 @@
-**👋 Hi, There!**
-
-# My Profile
+# Profile
 
 ## Job
 
