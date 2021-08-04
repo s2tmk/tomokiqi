@@ -1,3 +1,5 @@
+**Hi, There! 👋**
+
 # Profile
 
 ## Job
@@ -13,6 +15,10 @@
 
 ## Portfolio (Tech Blog)
 - https://portfolio.tomokiqi.com/
+
+## Hobby
+- US Stock 🇺🇸
+- Cooking Italy 🇮🇹
 
 ## SNS
 <p>
