@@ -17,9 +17,3 @@
 - US Stock 🇺🇸
 - Cooking Italy 🇮🇹
 
-## SNS
-<p>
-  <a href="https://twitter.com/tomokiqi" target="_blank">
-    <img alt="Twitter: tomokiqi" src="https://img.shields.io/twitter/follow/tomokiqi.svg?style=social" />
-  </a>
-</p>
